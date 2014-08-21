@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cfdi:Comprobante version="3.2" serie="A" folio="19265" fecha="2014-08-11T12:18:31" sello="iRqTM8r2yo72x36zZfmYhgVZUORw4RIXRFpb+q12ScBojNpFxVVrmqaBH9O345+dDwqTu0emNbcDa54diAj3NMfILxWM90pNLDRc+7VjUlXXgs0ekPqy/oqcLIAQLHmbNA96Rg9womDCuRXiOM8j8PSOfUkvZwVpr17AXelbM34=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000201457771" certificado="MIIEazCCA1OgAwIBAgIUMDAwMDEwMDAwMDAyMDE0NTc3NzEwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMDYyOTE4NTQyMVoXDTE2MDYyOTE4NTQyMVowgawxGjAYBgNVBAMTEU5FR1JFQ0FSIFNBIERFIENWMRowGAYDVQQpExFORUdSRUNBUiBTQSBERSBDVjEaMBgGA1UEChMRTkVHUkVDQVIgU0EgREUgQ1YxJTAjBgNVBC0THE5FRzk5MDkxNDE2NiAvIENBQUc2MzAzMDQ2NTcxHjAcBgNVBAUTFSAvIENBQUc2MzAzMDRIREZSR1MwNDEPMA0GA1UECxMGTWF0cml6MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCkDlImGaYlOhgHOKmiraGHVMyTTrYBhA5Mej6AAE7UwlWrYBXjmJt6p36mzr72rd0rvV8skuuhJJcp2yN5kpYqlMvcGFCW1zD11PF7w5OEF0IAe0RMyDP6wZLFi9QFjE/sNSjgRiBTyxYMOYakp/GnH3e3NbpcA4B6hU0tEJ158QIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAnejCEKkBLtyCWfHbvneqlOdW4z9iezl3PMkaewg2PJq0R8KfQn94Hhck1Hpd3azLnAhUph7gWmBBNaFWMvrWS6yJpsURJCxYYBllRKcuuZPahws6/eCxI4OYALbGq667M98T935V+R4bGYzq0IG9dlmD2VuePQOMFAvUabKFh5lXYk4AZzUInuTQeo/4DQMt1bnrHkpgX1uSikRwppgR5ntYV2KI1RImcadLxrXiuX7LT4WsF7wOqzyYcGs1iEIIHjm0XkCanXjQnXYiJ+GrYkQ2UGz+hC3cuyyo6sQ/lfI2ssupqURO677Y4O4fiCAuUut5wsEqyI0HEeob5cMVBA==" subTotal="70.6900" TipoCambio="1.0000" Moneda="MXP" total="82.0000" tipoDeComprobante="ingreso" metodoDePago="Efectivo" LugarExpedicion="VENUSTIANO CARRANZA" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <cfdi:Emisor rfc="NEG990914166" nombre="NEGRECAR S.A. DE C.V.">
+        <cfdi:DomicilioFiscal calle="PASEO DEL PEDREGAL" noExterior="1491" noInterior="16-A" colonia="JARDINES EN LA MONTAÑA" municipio="TLALPAN" estado="Distrito Federal" pais="México" codigoPostal="14210"/>
+        <cfdi:ExpedidoEn calle="AV. CAPITAN CARLOS LEON" noExterior="S/N" noInterior="SUBANCLA 1 PA CUERPOS B Y C AMP.ALA INT.APTO.BENITO JUAREZ" colonia="PEÑON DE LOS BAÑOS" municipio="VENUSTIANO CARRANZA" estado="Distrito Federal" pais="MEXICO" codigoPostal="15620"/>
+        <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+    </cfdi:Emisor>
+    <cfdi:Receptor rfc="COP920428Q20" nombre="COPPEL S.A. DE C.V.">
+        <cfdi:Domicilio calle="REPUBLICA" noExterior="2855 PTE" colonia="RECURSOS HIDRAULICOS" municipio="CULIACAN" estado="SINALOA" pais="MEXICO" codigoPostal="80105"/>
+    </cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto cantidad="1.0000" unidad="NO APLICA" noIdentificacion="TASA16" descripcion="CONSUMO IVA 16%" valorUnitario="70.6900" importe="70.6900"/>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos totalImpuestosTrasladados="11.3100">
+        <cfdi:Traslados>
+            <cfdi:Traslado impuesto="IVA" tasa="16.0000" importe="11.3100"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital
+xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital"
+xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital
+http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd" version="1.0" UUID="0A7DBFB5-D529-44F8-A473-9311F14A02E1" FechaTimbrado="2014-08-11T12:18:03" selloCFD="iRqTM8r2yo72x36zZfmYhgVZUORw4RIXRFpb+q12ScBojNpFxVVrmqaBH9O345+dDwqTu0emNbcDa54diAj3NMfILxWM90pNLDRc+7VjUlXXgs0ekPqy/oqcLIAQLHmbNA96Rg9womDCuRXiOM8j8PSOfUkvZwVpr17AXelbM34=" noCertificadoSAT="00001000000203253077" selloSAT="xYLSt8ZyLKrEuWRA+IDukDo7q6+cKW83O6v060fKEAsWpvfg/rUO3vx0bn2zlgoLhxx2vPlyotvok2tueUw5dPxtcILppA7/efmwjIQAzaTYib4Oo557xRWcNZghxBAsMdiwCaRsCWD7mSzvC6DlJDfPG0mx+vMzvTc+sBEBP8Y="/>
+    </cfdi:Complemento>
+</cfdi:Comprobante>

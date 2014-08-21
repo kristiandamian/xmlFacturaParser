@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd http://www.sat.gob.mx/aerolineas http://www.sat.gob.mx/sitio_internet/cfd/aerolineas/aerolineas.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:aerolineas="http://www.sat.gob.mx/aerolineas" version="3.2" serie="AM8650252" folio="132" fecha="2014-08-15T12:32:00" sello="trvchvCURcZWSg7N8I8QORr/CyLEsEL7b1ULyVLh72I6DduvphpwJ1tP/w69rA9LliphKyejgMfyVqfQaSgv8EzAmFObFwk2dofDd81qYf3owWSv7ylPlvCRDTolOCo38l4stvnTpBeu5n/wN6uGky7Z9/YQ5RdJLI01U2lztBg=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000300243643" certificado="MIIEfzCCA2egAwIBAgIUMDAwMDEwMDAwMDAzMDAyNDM2NDMwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA2MDQyMDU5MDdaFw0xNzA2MDQyMDU5MDdaMIHLMSQwIgYDVQQDExtBRVJPVklBUyBERSBNRVhJQ08gU0EgREUgQ1YxJDAiBgNVBCkTG0FFUk9WSUFTIERFIE1FWElDTyBTQSBERSBDVjEkMCIGA1UEChMbQUVST1ZJQVMgREUgTUVYSUNPIFNBIERFIENWMSUwIwYDVQQtExxBTUU4ODA5MTJJODkgLyBIRVBTNjAxMTI0NjYxMR4wHAYDVQQFExUgLyBIRVBTNjAxMTI0SERGUlhMMDYxEDAOBgNVBAsTB1JFRk9STUEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMeBKFkR0z98i7/GQxlSbWqmw78EEvwgiG+8Xs6PSL20HmpfWEzMmB/cOlWA3vNqq0EY4BrGSWSBGBteq/khOPz6//xgwz4nINhSdGaI7zGou6rLhWRFr7OgyrRKjl1jeJgFUA0MDxSCZWktBXK30Cg8fLp2dlDlHSG5sjc0hD6VAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQAGuRNol+lUJp0tTPxafYsbmJKqRARV3gsHE6OdEv5OX5qnFTYsM+E0QEUiNwFtrFt3kDm353pGyjto1z2FJX6Q4EctkMJLwg7YpvAXlpzkQGLKjO9YfGeM8Jx9l20lvSuBMfwh2JmaKSoSKZGHMAgEMKLb/r8/I5BNp+9ETLZlnTiAeRT5jFTCgL2ocjvNoTCX7hXWnEV1TYiiW9v96ccM/Gc2TWK6pnAR8feoFKennScmHqRl+iRJtHAqjOZ3oRZFVlbFBJ/nqpqVfohz1OolWJ1OMd/tHf7mEmW4WdAYe4MGVVqbSuPTl6KbwiqF5Yl65FvObZPByTTMaRlVuAOn" subTotal="2027.00" descuento="0.00" TipoCambio="1.0000" Moneda="MXN" total="2296.00" tipoDeComprobante="ingreso" metodoDePago="No Identificado" LugarExpedicion="México, D.F." NumCtaPago="6127" MontoFolioFiscalOrig="0.0000">
+  <cfdi:Emisor rfc="AME880912I89" nombre="AEROVIAS DE MEXICO SA DE CV">
+    <cfdi:DomicilioFiscal calle="Av. Paseo De La Reforma" noExterior="445" noInterior="A Y B" municipio="Cuauhtémoc" estado="D.F." pais="México" codigoPostal="06500" />
+    <cfdi:ExpedidoEn calle="Av. Paseo De La Reforma" noExterior="445" noInterior="A y B" colonia="Cuauhtémoc" municipio="Cuauhtémoc" estado="Distrito Federal" pais="México" codigoPostal="06500" />
+    <cfdi:RegimenFiscal Regimen="Régimen General de ley Personas Morales" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="COP920428Q20" nombre="COPPEL, S.A. DE C.V.">
+    <cfdi:Domicilio calle="REPUBLICA" noExterior="2855 PTE." colonia="RECURSOS HIDRAULICOS." localidad="CULIACAN" municipio="CULIACAN" estado="SINALOA." pais="México" codigoPostal="80105" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.00" unidad="No Aplica" descripcion="Transportaci?n Aerea" valorUnitario="1679.0000" importe="1679.0000" />
+    <cfdi:Concepto cantidad="1.00" unidad="No Aplica" descripcion="TUA" valorUnitario="331.0000" importe="331.0000" />
+    <cfdi:Concepto cantidad="1.00" unidad="No Aplica" descripcion="YR" valorUnitario="17.0000" importe="17.0000" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="269.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="269.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <aerolineas:Aerolineas Version="1.0" TUA="331.0000">
+      <aerolineas:OtrosCargos TotalCargos="17.0000">
+        <aerolineas:Cargo CodigoCargo="YR" Importe="17.0000" />
+      </aerolineas:OtrosCargos>
+    </aerolineas:Aerolineas>
+  <tfd:TimbreFiscalDigital version="1.0" UUID="cd583760-b937-4b18-b6ab-e6a09aede1ae" FechaTimbrado="2014-08-15T12:32:01" selloCFD="trvchvCURcZWSg7N8I8QORr/CyLEsEL7b1ULyVLh72I6DduvphpwJ1tP/w69rA9LliphKyejgMfyVqfQaSgv8EzAmFObFwk2dofDd81qYf3owWSv7ylPlvCRDTolOCo38l4stvnTpBeu5n/wN6uGky7Z9/YQ5RdJLI01U2lztBg=" noCertificadoSAT="00001000000300171326" selloSAT="DaUDvfwmrYIhO1vurBXT9ahpmHpmbpL2WvzCxZHY3Y/TNzVMQ1J8c1DcRSBH3m740h4QBi9Vj8QtbsYa/Ghj6NLhzSG/V1nGIzvAYG+Db9G6FvYM0yTTH63zzaKvg6tLzIhQb1nvAzPn7X1Goc2rLetD8RF6XPBAh81i905QQV4=" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd" /></cfdi:Complemento>
+  <cfdi:Addenda xmlns:ecfd="http://www.edxsolutions.com/schemas/strict" xsi:schemaLocation="http://www.edxsolutions.com/schemas/strict http://www.edxsolutions.com/schemas/strict/ecfd.xsd">
+    <ecfd:ECFD version="1.0">
+      <ecfd:Documento ID="T33AM8650252132">
+        <ecfd:Encabezado>
+          <ecfd:IdDoc>
+            <ecfd:NroAprob>2014</ecfd:NroAprob>
+            <ecfd:AnoAprob>2014</ecfd:AnoAprob>
+            <ecfd:Tipo>33</ecfd:Tipo>
+            <ecfd:Serie>AM8650252</ecfd:Serie>
+            <ecfd:Folio>132</ecfd:Folio>
+            <ecfd:Estado>ORIGINAL</ecfd:Estado>
+            <ecfd:NumeroInterno>1018241</ecfd:NumeroInterno>
+            <ecfd:FechaEmis>2014-08-15T12:32:00</ecfd:FechaEmis>
+            <ecfd:FormaPago>PAGO EN UNA SOLA EXHIBICION</ecfd:FormaPago>
+            <ecfd:MedioPago>No Identificado</ecfd:MedioPago>
+            <ecfd:NumCtaPago>6127</ecfd:NumCtaPago>
+            <ecfd:MontoFolioFiscalOrig>0.0000</ecfd:MontoFolioFiscalOrig>
+          </ecfd:IdDoc>
+          <ecfd:ExEmisor>
+            <ecfd:RFCEmisor>AME880912I89</ecfd:RFCEmisor>
+            <ecfd:NmbEmisor>AEROVIAS DE MEXICO SA DE CV</ecfd:NmbEmisor>
+            <ecfd:DomFiscal>
+              <ecfd:Calle>Av. Paseo De La Reforma</ecfd:Calle>
+              <ecfd:NroExterior>445</ecfd:NroExterior>
+              <ecfd:NroInterior>A Y B</ecfd:NroInterior>
+              <ecfd:Municipio>Cuauhtémoc</ecfd:Municipio>
+              <ecfd:Estado>D.F.</ecfd:Estado>
+              <ecfd:Pais>México</ecfd:Pais>
+              <ecfd:CodigoPostal>06500</ecfd:CodigoPostal>
+            </ecfd:DomFiscal>
+            <ecfd:LugarExped>
+              <ecfd:Calle>Av. Paseo De La Reforma</ecfd:Calle>
+              <ecfd:NroExterior>445</ecfd:NroExterior>
+              <ecfd:NroInterior>A y B</ecfd:NroInterior>
+              <ecfd:Colonia>Cuauhtémoc</ecfd:Colonia>
+              <ecfd:Municipio>Cuauhtémoc</ecfd:Municipio>
+              <ecfd:Estado>Distrito Federal</ecfd:Estado>
+              <ecfd:Pais>México</ecfd:Pais>
+              <ecfd:CodigoPostal>06500</ecfd:CodigoPostal>
+            </ecfd:LugarExped>
+          </ecfd:ExEmisor>
+          <ecfd:ExReceptor>
+            <ecfd:RFCRecep>COP920428Q20</ecfd:RFCRecep>
+            <ecfd:NmbRecep>COPPEL, S.A. DE C.V.</ecfd:NmbRecep>
+            <ecfd:DomFiscalRcp>
+              <ecfd:Calle>REPUBLICA</ecfd:Calle>
+              <ecfd:NroExterior>2855 PTE.</ecfd:NroExterior>
+              <ecfd:Colonia>RECURSOS HIDRAULICOS.</ecfd:Colonia>
+              <ecfd:Localidad>CULIACAN</ecfd:Localidad>
+              <ecfd:Municipio>CULIACAN</ecfd:Municipio>
+              <ecfd:Estado>SINALOA.</ecfd:Estado>
+              <ecfd:Pais>México</ecfd:Pais>
+              <ecfd:CodigoPostal>80105</ecfd:CodigoPostal>
+            </ecfd:DomFiscalRcp>
+          </ecfd:ExReceptor>
+          <ecfd:Totales>
+            <ecfd:Moneda>MXN</ecfd:Moneda>
+            <ecfd:FctConv>1.0000</ecfd:FctConv>
+            <ecfd:SubTotal>2027.00</ecfd:SubTotal>
+            <ecfd:MntDcto>0.00</ecfd:MntDcto>
+            <ecfd:MntImp>269.00</ecfd:MntImp>
+            <ecfd:VlrPagar>2296.00</ecfd:VlrPagar>
+          </ecfd:Totales>
+          <ecfd:ExImpuestos>
+            <ecfd:TipoImp>IVA</ecfd:TipoImp>
+            <ecfd:TasaImp>16.00</ecfd:TasaImp>
+            <ecfd:MontoImp>269.00</ecfd:MontoImp>
+          </ecfd:ExImpuestos>
+        </ecfd:Encabezado>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>1</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>Transportaci?n Aerea</ecfd:DscItem>
+          <ecfd:QtyItem>1.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>No Aplica</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>1679.0000</ecfd:PrcNetoItem>
+          <ecfd:MontoNetoItem>1679.0000</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>2</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>TUA</ecfd:DscItem>
+          <ecfd:QtyItem>1.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>No Aplica</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>331.0000</ecfd:PrcNetoItem>
+          <ecfd:MontoNetoItem>331.0000</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:Detalle>
+          <ecfd:NroLinDet>3</ecfd:NroLinDet>
+          <ecfd:DscLang>ES</ecfd:DscLang>
+          <ecfd:DscItem>YR</ecfd:DscItem>
+          <ecfd:QtyItem>1.00</ecfd:QtyItem>
+          <ecfd:UnmdItem>No Aplica</ecfd:UnmdItem>
+          <ecfd:PrcNetoItem>17.0000</ecfd:PrcNetoItem>
+          <ecfd:MontoNetoItem>17.0000</ecfd:MontoNetoItem>
+        </ecfd:Detalle>
+        <ecfd:TimeStamp>2014-08-15T12:32:12</ecfd:TimeStamp>
+      </ecfd:Documento>
+      <ecfd:Personalizados>
+        <ecfd:campoString name="VlrPalabras">(Dos mil doscientos noventa y seis pesos 00/100 M.N.)</ecfd:campoString>
+        <ecfd:campoString name="Fuente">pticket</ecfd:campoString>
+        <ecfd:campoString name="Email">jcaro@int.coppel.com</ecfd:campoString>
+        <ecfd:campoString name="NumTickets">1395245443422</ecfd:campoString>
+        <ecfd:campoString name="Personalizado01">CARO/JAIME</ecfd:campoString>
+        <ecfd:campoString name="Personalizado02" />
+        <ecfd:campoString name="Personalizado03" />
+        <ecfd:campoString name="Personalizado04" />
+        <ecfd:campoString name="Personalizado06" />
+        <ecfd:campoString name="Personalizado07" />
+        <ecfd:campoString name="Personalizado09" />
+        <ecfd:campoString name="Personalizado08" />
+        <ecfd:campoString name="Personalizado10" />
+        <ecfd:campoString name="Personalizado11" />
+        <ecfd:campoString name="Personalizado12" />
+        <ecfd:campoString name="Personalizado13" />
+        <ecfd:campoString name="Personalizado14" />
+        <ecfd:campoString name="Personalizado15" />
+        <ecfd:campoString name="Personalizado16" />
+        <ecfd:campoString name="TUA">331.0000</ecfd:campoString>
+        <ecfd:campoString name="Template">AMEX</ecfd:campoString>
+        <ecfd:campoString name="Personalizado05" />
+        <ecfd:campoString name="Personalizado17" />
+        <ecfd:campoString name="Personalizado18">false</ecfd:campoString>
+        <ecfd:campoString name="Personalizado19">8650252</ecfd:campoString>
+        <ecfd:campoString name="Personalizado20">RTSZQL/RZOTCX</ecfd:campoString>
+        <ecfd:campoString name="Personalizado21" />
+        <ecfd:campoString name="Personalizado22" />
+        <ecfd:campoString name="Personalizado23" />
+        <ecfd:campoString name="Personalizado24" />
+        <ecfd:campoString name="Personalizado25" />
+        <ecfd:campoString name="Personalizado26" />
+        <ecfd:campoString name="Personalizado27" />
+        <ecfd:campoString name="Personalizado28" />
+        <ecfd:campoString name="Personalizado29" />
+        <ecfd:campoString name="Personalizado30" />
+        <ecfd:campoString name="Personalizado31" />
+        <ecfd:campoString name="NumTickets2" />
+        <ecfd:campoString name="TotalCargos">17.0000</ecfd:campoString>
+        <ecfd:campoString name="RegimenFiscal">Régimen General de ley Personas Morales</ecfd:campoString>
+        <ecfd:campoString name="CuentaDePago">6127</ecfd:campoString>
+        <ecfd:campoString name="LugarDeExpedicion">México, D.F.</ecfd:campoString>
+        <ecfd:campoNumero name="Propinas">0.00</ecfd:campoNumero>
+        <ecfd:campoNumero name="TotalRef">0.00</ecfd:campoNumero>
+      </ecfd:Personalizados>
+    </ecfd:ECFD>
+  </cfdi:Addenda>
+</cfdi:Comprobante>
